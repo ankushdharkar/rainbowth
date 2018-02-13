@@ -35,6 +35,8 @@ In order for Rainbowth to be able to edit the themes to color the text, we will 
 Using PackageResourceViewer, extract the relevant files for the theme (in our case, the *Dracula* theme)
 ![Step-14](img/14.png)
 ![Step-15](img/15.png)
+
+This will create the files related to the theme in *Packages* folder. The folder should look somewhat like this now:
 ![Step-16](img/16.png)
 
 #### Rainbowth.sublime-settings
