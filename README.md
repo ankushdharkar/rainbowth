@@ -21,7 +21,7 @@ The color scheme must be unpacked in the user's `Packages` folder and writable f
 
 The default themes can be located in the `Color Scheme - Default.sublime-package` (or `Color Scheme - Legacy.sublime-package` on newer Sublime Text installations) file in the Sublime Text installation folder. Use a zip archive manager to extract the `.tmTheme` file corresponding to the theme you like. There is currently no support for the new `.sublime-color-scheme` file format.
 
-Step-by-step setup instructions: [Here](Setup-Instructions.md)
+* [Step-by-step setup instructions](Setup-Instructions.md)
 
 ### Configuration
 
